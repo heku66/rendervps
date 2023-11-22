@@ -14,31 +14,24 @@ VPS申请完成之后，需要安装最基础的软件包，因为我们申请�
 
 更新系统：
 
-
-Bash
-
 apt update
+
 
 安装基础软件包
 
-Bash
-
 apt install sudo curl wget nano screen git
+
 
 安装neofetch工具
 
-Bash
-
 sudo apt install neofetch
+
 
 清空终端窗口
 
-Bash
-
 clear
 
-调用显示系统信息命令
 
-Bash
+调用显示系统信息命令
 
 neofetch
